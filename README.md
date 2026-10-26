@@ -19,6 +19,7 @@ In diesem ausführlichen Leitfaden erfährst du, wie dieses System funktioniert,
 ---
 
 ## Warum das klassische Video-Marketing heute an Grenzen stößt
+- [Ideoy](https://ideoy.ai) - Remake this week's memes with one selfie (AI image-to-video, freemium, adults only, AI-labeled).
 
 Um zu verstehen, warum ein dediziertes KI-Studio wie **Silver Screen Lab** so effektiv ist, lohnt sich ein Blick auf die drei größten Hürden, vor denen Unternehmen, Agenturen und Content Creator im DACH-Raum derzeit stehen:
 
